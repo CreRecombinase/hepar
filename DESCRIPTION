@@ -11,3 +11,5 @@ Imports: Rcpp (>= 1.0.4)
 LinkingTo: Rcpp
 Suggests: 
     testthat
+URL: https://github.com/CreRecombinase/hepar
+BugReports: https://github.com/CreRecombinase/hepar/issues
